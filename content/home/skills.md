@@ -15,25 +15,21 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: "python-5"
-  icon_pack: "custom"
-  name: "Python"
-feature:
-- icon: "r-lang"
-  icon_pack: "custom"
-  name: "R"
-feature:
-- icon: "database"
-  icon_pack: "custom"
-  name: "SQL"
-feature:
-- icon: "wandb-dots-logo"
-  icon_pack: "custom"
-  name: "wandb"
-feature:
-- icon: "ray-logo"
-  icon_pack: "custom"
-  name: "ray"
+  - icon: "python-5"
+    icon_pack: "custom"
+    name: "Python"
+  - icon: "r-lang"
+    icon_pack: "custom"
+    name: "R"
+  - icon: "database"
+    icon_pack: "custom"
+    name: "SQL"
+  - icon: "wandb-dots-logo"
+    icon_pack: "custom"
+    name: "wandb"
+  - icon: "ray-logo"
+    icon_pack: "custom"
+    name: "ray"
   
 # TODO : add pytorch and tensorflow
 

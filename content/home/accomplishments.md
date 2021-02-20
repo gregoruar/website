@@ -31,7 +31,6 @@ item:
   organization_url: https://www.coursera.org
   title: Deep Learning Specialization
   url: ""
-item:
 - certificate_url: https://www.coursera.org/account/accomplishments/verify/P243S3F9KQGS
   date_end: ""
   date_start: "2019-11-10"
