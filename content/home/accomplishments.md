@@ -31,12 +31,13 @@ item:
   organization_url: https://www.coursera.org
   title: Deep Learning Specialization
   url: ""
+item:
 - certificate_url: https://www.coursera.org/account/accomplishments/verify/P243S3F9KQGS
   date_end: ""
   date_start: "Nov 2019"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Machine Learning Foundations: A Case Study Approach
+  title: "Machine Learning Foundations: A Case Study Approach"
   url: ""
 ---
