@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org/account/accomplishments/specialization/CAFQ5LLR9VQD
   date_end: ""
-  date_start: "Jan 2020"
+  date_start: "2020-01-20"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
@@ -34,7 +34,7 @@ item:
 item:
 - certificate_url: https://www.coursera.org/account/accomplishments/verify/P243S3F9KQGS
   date_end: ""
-  date_start: "Nov 2019"
+  date_start: "2019-11-10"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
