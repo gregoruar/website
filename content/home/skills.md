@@ -18,24 +18,25 @@ feature:
 - icon: "python-5"
   icon_pack: "custom"
   name: "Python"
-#  description: "advanced"
+feature:
 - icon: "r-lang"
   icon_pack: "custom"
   name: "R"
-#  description: "medium"
+feature:
 - icon: "database"
   icon_pack: "custom"
   name: "SQL"
-#  description: "medium"
+feature:
 - icon: "wandb-dots-logo"
   icon_pack: "custom"
   name: "wandb"
-#  description: "advanced"
+feature:
 - icon: "ray-logo"
   icon_pack: "custom"
   name: "ray"
-#  description: "advanced"  
   
+# TODO : add pytorch and tensorflow
+
 #- description: 90%
 # icon: r-project
 #  icon_pack: fab
@@ -45,7 +46,7 @@ feature:
 #- icon: ":smile:"
 #  icon_pack: "emoji"
 #  name: "Emojiness"
-#  description: "100%"  
+#   
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
