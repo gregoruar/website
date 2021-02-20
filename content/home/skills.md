@@ -1,4 +1,3 @@
----
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
@@ -16,18 +15,31 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+- icon: "python-5"
+  icon_pack: "custom"
+  name: "Python"
+#  description: "advanced"
+- icon: "r-lang"
+  icon_pack: "custom"
+  name: "R"
+#  description: "medium"
+- icon: "database"
+  icon_pack: "custom"
+  name: "SQL"
+#  description: "medium"
+- icon: "wandb-dots-logo"
+  icon_pack: "custom"
+  name: "wandb"
+#  description: "advanced"
+- icon: "ray-logo"
+  icon_pack: "custom"
+  name: "ray"
+#  description: "advanced"  
+  
+#- description: 90%
+# icon: r-project
+#  icon_pack: fab
+#  name: R
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
@@ -38,8 +50,5 @@ feature:
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-#- icon: "your-custom-icon-name"
-#  icon_pack: "custom"
-#  name: "Surfing"
-#  description: "90%"
+
 ---
