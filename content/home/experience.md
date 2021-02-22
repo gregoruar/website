@@ -25,7 +25,7 @@ experience:
   - title: Bioinformatics Engineer
     company: CBiB
     company_url: 'https://www.cbib.u-bordeaux.fr/en'
-    location: Moscow
+    location: Bordeaux, France
     date_start: '2019-10-01'
     date_end: ''
     description: Deep learning for novel virus detection in plants
@@ -33,7 +33,7 @@ experience:
   - title: Intern
     company: Statandocs
     company_url: 'https://statandocs.com/'
-    location: Moscow
+    location: Moscow, Russia
     date_start: '2019-03-01'
     date_end: '2019-04-30'
     description: Data analysis of clinical trials in R
@@ -42,7 +42,7 @@ experience:
   - title: Intern
     company: M&S Decisions
     company_url: 'https://www.msdecisions.ru/'
-    location: Moscow
+    location: Moscow, Russia
     date_start: '2018-06-01'
     date_end: '2018-08-31'
     description: Meta-analysis and methodology study for modeling of clinical endpoints in Chronic Obstructive Pulmonary Disease 
