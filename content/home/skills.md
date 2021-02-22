@@ -1,6 +1,7 @@
 ---
 widget: featurette
 headless: true  # This file represents a page section.
+weight: 25
 # ... Put Your Section Options Here (title etc.) ...
 title: Skills
 
@@ -20,9 +21,10 @@ feature:
   - icon: "wandb-dots-logo"
     icon_pack: "custom"
     name: "wandb"
-  - icon: "ray-logo"
-    icon_pack: "custom"
-    name: "ray"
+# TODO: introduce ray logo
+#  - icon: "ray-logo"
+#    icon_pack: "custom"
+#    name: "ray"
   
 # TODO : add pytorch and tensorflow
 
